@@ -1,4 +1,6 @@
-# Seminários Online - NPO Series
+# Seminários Online - NPO Series 
+
+http://d1xno6vgfepd6c.cloudfront.net/npo/index.html
 
 Durante a quarentena obrigatória devido aos cuidados com o COVID19, o time de Non Profits Organizations da AWS Public Sector Brazil criou uma série de seminários online, gratuitos e totalmente tecnicos, para engajar e ajudar clientes neste momento tão dificil vivido por todos nós.
 
@@ -24,5 +26,7 @@ De 31/03 à 09/06 - Todas as Terças Feiras as 14h.
 ```Com exceção a 21/04```
 
 Para participar, envie seu email para: `amandaqt@amazon.com` com o Assunto: `Seminarios Online COVID19 - Quero participar!`
+
+
 
 
